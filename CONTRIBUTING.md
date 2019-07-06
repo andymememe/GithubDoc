@@ -14,6 +14,7 @@
 **IMPORTANT: Using Conventional Commits**
 * Fork the repo first.
 * Using one of 3 types (Fix, Feature, BREAKING CHANGE) from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) and write details of all the changes in the description.
+* Using [Github Flow](https://guides.github.com/introduction/flow/).
 * File the Pull Request and discuss.
 * Never change the version of libraries or other requirements without my permission. I will post an announcement for any change of the requirements.
 
