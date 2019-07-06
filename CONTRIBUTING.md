@@ -20,10 +20,12 @@
 ### Coding Standard
 **PS: Some of my old code may use it, but don't do it for the newer one. I will fix them when I found them.**
 * Do not use Java-like braces.
+```java
     if ()
     {
         // Good
     }
+```
 * Only leave one space after semi-colons in "for" statements.
 * Function names are not separated from the first parenthesis.
 * Avoid magic numbers.
