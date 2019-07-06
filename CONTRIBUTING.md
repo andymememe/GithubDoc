@@ -19,7 +19,7 @@
 
 ### Coding Standard
 **PS: Some of my old code may use it, but don't do it for the newer one. I will fix them when I found them.**
-* Do not use Java-like braces.
+* Do not use Java-like braces. Use like the example shown below.
 ```java
     if ()
     {
