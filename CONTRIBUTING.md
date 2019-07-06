@@ -6,15 +6,16 @@
     1. Bug report
     2. Feature request
 * Search first! Do not file an issue twice!
-* Using Issue template to file an issue.
+* Use Issue template to file an issue.
 * Complete all the information in the template. Make sure to put all the details on it.
 * Everyone is welcome to file issues and write comments.
 
 ## Pull Request
 **IMPORTANT: Using Conventional Commits**
 * Fork the repo first.
-* Using one of 3 types (Fix, Feature, BREAKING CHANGE) from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) and write details of all the changes in the description.
-* Using [Github Flow](https://guides.github.com/introduction/flow/).
+* Open a new branch from "master" branch, use tags from GitFlow (hotfix, feature) for each type of issue, e.g., hotfix/fix-X.
+* Use one of 3 types (Fix, Feature, BREAKING CHANGE) from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) and write details of all the changes in the description when commiting.
+* Use [Github Flow](https://guides.github.com/introduction/flow/).
 * File the Pull Request and discuss.
 * Never change the version of libraries or other requirements without my permission. I will post an announcement for any change of the requirements.
 
