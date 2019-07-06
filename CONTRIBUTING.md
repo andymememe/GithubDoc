@@ -11,9 +11,8 @@
 * Everyone is welcome to file issues and write comments.
 
 ## Pull Request
-**IMPORTANT: Using Conventional Commits**
 * Fork the repo first.
-* Open a new branch from "master" branch, use tags from GitFlow (hotfix, feature) for each type of issue, e.g., hotfix/fix-X.
+* Open a new branch from "master" branch, use tags from GitFlow (hotfix, feature) for each type of issue to name the branch, e.g., hotfix/fix-X.
 * Use one of 3 types (Fix, Feature, BREAKING CHANGE) from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) and write details of all the changes in the description when commiting.
 * Use [Github Flow](https://guides.github.com/introduction/flow/).
 * File the Pull Request and discuss.
